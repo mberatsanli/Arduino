@@ -1,5 +1,5 @@
 # Motor Kütüphanesi Kullanımı
-> Digital pinler için uyumludur.
+> Analog pinler için uyumlu değildir!
 
 ### Kütüphaneyi Dahil Etmek
 	#include "motor.h";
