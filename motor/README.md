@@ -12,7 +12,7 @@ koduyla pinlere güç yollarsınız, motor kullanıma hazır olur.
 ### Pinler
 Ön tanımlı olarak atanan pinler `4, 5, 6, 7` olarak ayarlanmıştır
 
-#### Özel Pin Ataması
+### Özel Pin Ataması
   Pin atamasını `motor.setup();` kısmından önce yapanız! Aksi taktirde ön tanımlı pinler kullanılır.
 
 	int benimPinler[] = {10, 11, 12, 13};
