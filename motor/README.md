@@ -1,10 +1,10 @@
 # Motor Kütüphanesi Kullanımı
+> Digital pinler için uyumludur.
 
 ### Kütüphaneyi Dahil Etmek
 	#include "motor.h";
 Lütfen include etmediyseniz `#include "Arduino.h"` adlı kütüphaneyide include ediniz.
 
->
 ### Başlatma
 	motor.setup();
 koduyla pinlere güç yollarsınız, motor kullanıma hazır olur.
