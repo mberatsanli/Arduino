@@ -1,4 +1,4 @@
-# Motor Kütüphanesi Kullanımı
+# Motor Kütüphanesi v1.0.1
 > Analog pinler için uyumlu değildir!
 
 ### Kütüphaneyi Dahil Etmek
