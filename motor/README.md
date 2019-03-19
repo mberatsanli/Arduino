@@ -32,7 +32,7 @@ koduyla pinlere güç yollarsınız, motor kullanıma hazır olur.
 	motor.sag();
 	motor.dur();
 
-### Örnek Kod
+### Örnek Kod (ornek.ino)
 	#include "Arduino.h"
 	#include "motor.h"
 
