@@ -31,3 +31,18 @@ koduyla pinlere güç yollarsınız, motor kullanıma hazır olur.
 	motor.sol();
 	motor.sag();
 	motor.dur();
+
+### Örnek Kod
+	#include "Arduino.h"
+	#include "motor.h"
+
+	int benimPinler[] = {10, 11, 12, 13}; 
+
+	void setup() {
+  		motor.pinAta(benimPinler);
+  		motor.setup();
+	}
+
+	void loop() {
+  		motor.test();
+	}
